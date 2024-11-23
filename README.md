@@ -1,2 +1,2 @@
 # rixser1
-1
+openclash
